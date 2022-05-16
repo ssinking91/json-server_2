@@ -233,7 +233,7 @@ npx json-server db.json --port 4000
 - 변경후
 
 ```javascript
-  import _ from 'lodash';
+import React, { useState } from 'react';
 
 ...
 
